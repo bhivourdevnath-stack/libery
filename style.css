@@ -29,7 +29,7 @@ body {
 
 .h {
   transition: background-position 1s, text-shadow 1s;
-  transition-delay: 0s, 1s;
+  transition-delay: 0s, 0.5s;
   background-position: 0 0;
   text-shadow: 0 0 10px #0ef, 0 0 20px #0ef, 0 0 40px #0ef, 0 0 80px #0ef,
     0 0 160px #0ef;
